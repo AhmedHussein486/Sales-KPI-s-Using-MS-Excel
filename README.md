@@ -14,6 +14,7 @@ This project involves a **Sales KPIs Dashboard** designed to provide key perform
 ---
 ## Dashboard Screenshot
 
+Screenshot 2025-01-27 081130.png
 
 
 ---
