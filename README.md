@@ -14,8 +14,7 @@ This project involves a **Sales KPIs Dashboard** designed to provide key perform
 ---
 ## Dashboard Screenshot
 
-Screenshot 2025-01-27 081130.png
-
+![image_alt](https://github.com/AhmedHussein486/Sales-KPI-s-Using-MS-Excel/blob/main/Screenshot%202025-01-27%20081130.png?raw=true)
 
 ---
 
