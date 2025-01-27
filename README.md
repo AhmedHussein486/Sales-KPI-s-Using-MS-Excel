@@ -12,6 +12,11 @@ This project involves a **Sales KPIs Dashboard** designed to provide key perform
 
 
 ---
+## Dashboard Screenshot
+
+
+
+---
 
 ## Key Features of the Dashboard
 - **Total Sales Per Category**: Breakdown of sales across product categories.
