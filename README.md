@@ -8,7 +8,7 @@ This project involves a **Sales KPIs Dashboard** designed to provide key perform
 ## Included Files
 - **`Screenshot 2025-01-27 081130.png`**: A screenshot of the dashboard displaying key sales performance indicators.
 - **`LAB 2.xlsx`**: An Excel file containing the data and analytics used in the project.
-- **`LAB 2.xlsx`**: An Excel file containing the data and analytics used in the project.
+- **`AdventureWorks2012.zip`**: A ZIP file for Adventure Works 2012 DB.
 
 
 ---
@@ -62,9 +62,3 @@ This **Sales KPIs Dashboard** project provides valuable insights into sales perf
 This project demonstrates the power of data analytics in driving business decisions and optimizing sales performance.
 
 ---
-
-## Credits
-- Created by **[Your Name]**.
-
-## License
-This project is licensed under the **[License Name]**. For more details, see the `LICENSE` file.
